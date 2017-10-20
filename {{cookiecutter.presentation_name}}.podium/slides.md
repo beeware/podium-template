@@ -4,7 +4,7 @@ background-image: url(images/test-pattern.png)
 ---
 class: title
 
-# Title
+# {{cookiecutter.presentation_name}}
 
 ## Subtitle
 
