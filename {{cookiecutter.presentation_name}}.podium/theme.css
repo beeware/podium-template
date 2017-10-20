@@ -30,7 +30,7 @@
 }
 
 .remark-slides-area .remark-slide-content::after {
-    content: "@yourTwitterHere";
+    content: "@{{cookiecutter.twitter_handle}}";
     font-family: 'Droid Serif';
     font-weight: normal;
     font-size: 18pt;

@@ -6,7 +6,7 @@ class: title
 
 # {{cookiecutter.presentation_name}}
 
-## Subtitle
+## {{cookiecutter.conference_name}}
 
 ???
 

@@ -37,7 +37,7 @@ div.remark-slide-scaler {
 }
 
 .remark-slide-content::after {
-    content: "@yourTwitterHere";
+    content: "@{{cookiecutter.twitter_handle}}";
     font-family: 'Droid Serif';
     font-weight: normal;
     position: absolute;
